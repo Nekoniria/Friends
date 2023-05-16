@@ -23,7 +23,7 @@ The list of games I will be modding with my friends will be shown below:
 * Stardew Valley
 * And maybe some new games down the line
 
-### Borderlands 3 Install Guide
+## Borderlands 3 Install Guide
 
 **Note: This is the first game I will be doing for now, other games will have its own folder with a README file.**
 
