@@ -33,7 +33,7 @@ The list of games I will be modding with my friends will be shown below:
 4. Launch the game at least once
 5. Open Steam and right click on `Borderlands 3`
     - Click on Properties
-	- Next go to `Local Files`(`Installed Files` if you have the beta active at this time.)
+	- Next go to `Local Files`(`Installed Files` if you have the Steam beta active at this time.)
 	- Click on `Browse` *This should take you to the Borderlands 3 Directory*
 	- Your **File Manager** will start blinking, open that to foreground
 	- Please follow this file path `.../OakGame/Binaries/Win64
