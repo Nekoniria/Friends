@@ -39,5 +39,5 @@ The list of games I will be modding with my friends will be shown below:
 	- Please follow this file path `.../OakGame/Binaries/Win64`
 	- You should see a `Borderlands3.exe` you made it to the `.exe` almost there!
 6. Extract the `D3D11` file into where the `Borderlands3.exe`
-7. Extract the `OpenHotfixLoader` in the same place (Make sure the files inside are a `Plugins Folder`, `Borderlands3.exe`, and `d3d11.dll`)
+7. Extract the `OpenHotfixLoader` in the same place (Make sure the files inside are a `Plugins Folder`, `Borderlands3.exe`, and `d3d11.dll` inside where you extracted)
 8. WIP...
