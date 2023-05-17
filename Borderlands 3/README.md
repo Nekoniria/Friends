@@ -5,7 +5,7 @@
 1. Download `Borderlands 3`
     - Download [D3D11](https://github.com/FromDarkHell/BL3DX11Injection/releases/download/v1.1.3/D3D11.zip)
     - Download [OpenHotfixLoader](https://github.com/apple1417/OpenHotfixLoader/releases/download/v1.6/OpenHotfixLoader.zip)
-    - Download [BL3_Mods]() *Invalid Link*
+    - Download [BL3_Mods](https://github.com/NekosakiSR/Friends/releases/download/BL3/BL3_Mods.zip)
 2. Launch the game at least once
 3. Open Steam and right click on `Borderlands 3`
     - Click on Properties
